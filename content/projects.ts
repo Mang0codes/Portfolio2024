@@ -40,8 +40,8 @@ export const projects: Content.Project[] = [
         status: Status.Completed,
         year: '2023',
         technologies: ['typescript', 'react', 'nextjs', 'chakra-ui', 'storybook'],
-        githubUrl: 'https://github.com/Mang0codes/PersonalPortfolios',
-        demoUrl: '',
+        githubUrl: 'https://github.com/Mang0codes/Portfolio2024',
+        demoUrl: 'https://portfolio2024-rust-seven.vercel.app/',
     },
     {
         name: 'SyntaxHub-Online-Code-Editor',

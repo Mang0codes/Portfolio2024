@@ -18,7 +18,7 @@ export const Footer: React.FC<FooterProps> = () => {
                 >
                     <Text>© 2023 Albia Hossain - MIT license</Text>
                 </Link>
-                <Link href='https://github.com/Mang0codes/PersonalPortfolio' target='_blank'
+                <Link href='https://github.com/Mang0codes/Portfolio2024' target='_blank'
                     _hover={{ textDecoration: 'none', textShadow: '0 0 5px #fff' }}
                     transition='all 0.2s ease-in-out'
                     display='flex' alignItems='center'
