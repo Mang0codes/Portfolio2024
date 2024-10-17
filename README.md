@@ -9,4 +9,4 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 - [Skills](#skills)
 - [Technologies](#technologies)
 - [Contact](#contact)
-- [License](#license)
+- [License](#license) 
